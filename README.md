@@ -3,8 +3,15 @@ ProjectDisorder
 
 Introduction
 ------------
-This is an expert system that will classify different development disorders
-based on user input.
+The developers have successfully developed an ontology-based classification expert system for child developmental disorders. To achieve that, 
+the group has successfully integrated the ontology into the web-based expert system designed without modifying the original structure of the ontology. The 
+developers had only added to the existing body of information in the form of questions derived from manifestations of disorders as stored in the ontology.  
+Also, the questions that have been added to the ontology serve to add to to the existing body of information on child developmental disorders. The group has also successfully made the web-based expert system 
+dynamic, making it capable of displaying any updates and changes to the information in the ontology without requiring changes to the system‘s code. This 
+feature allows future developments in this ontology to be seamlessly integrated into the web-based classification expert system. 
+The group is in the process of migrating this system to an online host, making it available to the public. This is because the group believes that this 
+ontology-based classification expert system can serve as a tool to provide awareness to local health communities and help remedy social ignorance on 
+child developmental disorders by supporting diagnosis of disorders based on the existing ontological framework on this domain. It will also serve as a tool for interoperability and browsing of the distributed registry for child disorders.
 
 Installation
 ------------
